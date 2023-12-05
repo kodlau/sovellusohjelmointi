@@ -1,2 +1,0 @@
-# sovellusohjelmointi
-Ryhmätyö koulukurssille
